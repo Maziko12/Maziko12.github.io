@@ -52076,7 +52076,11 @@ return B.c.az(r,s)},
 $S:345}
 A.w9.prototype={
 S(a){var s=null,r=A.a42(B.BF,7)
+<<<<<<< HEAD
 return A.lD(s,new A.q2(B.y4,"Primeiro Layout",A.a2v(s,A.a4m(B.M,s,s,B.BG),!0),!1,s),new A.e2(s,s,r,s,s,s,B.aO),s,s,s,s)}}
+=======
+return A.lD(s,new A.q2(B.y4,"Layout App",A.a2v(s,A.a4m(B.M,s,s,B.BG),!0),!1,s),new A.e2(s,s,r,s,s,s,B.aO),s,s,s,s)}}
+>>>>>>> b3bce048baf5d7a1d4799fa73d4cb4d25d64d127
 A.pu.prototype={
 ak(){return new A.Dk()}}
 A.Dk.prototype={
